@@ -1,0 +1,4 @@
+matplotlib==3.2.1
+mplfinance==0.12.4a0
+pandas==1.0.4
+TA-Lib==0.4.18
